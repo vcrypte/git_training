@@ -21,3 +21,7 @@ hello world
 
 path = rf"C:\Users\Name\Documents\file.txt"
 print(path)  # C:\Users\Name\Documents\file.txt
+
+x = 42
+name = "Alice"
+print(f"{x=}, {name=}")  # x=42, name='Alice'
