@@ -18,3 +18,6 @@ path = rf"C:\Users\Name\Documents\file.txt"
 print(path)  # C:\Users\Name\Documents\file.txt
 
 hello world
+
+path = rf"C:\Users\Name\Documents\file.txt"
+print(path)  # C:\Users\Name\Documents\file.txt
